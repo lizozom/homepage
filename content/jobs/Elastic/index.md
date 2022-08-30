@@ -7,6 +7,7 @@ range: 'December 2018 - Present'
 url: 'https://www.elastic.co'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
+- Area Lead for performance of Kibana, focusing on improving key flows such as application loading time, visualization times, etc.
+- Worked with advanced TypeScript, JavaScript and React in cloud and on premise environemnts
+- Delivered in person and online training to Elastic customers
 - Communicate with a distributed multi-disciplinary teams of engineers around the world
