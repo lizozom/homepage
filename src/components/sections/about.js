@@ -143,7 +143,7 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at several start-ups,{' '}
-              <a href="https://www.is.com/">an advertising agency</a>,{' '}
+              <a href="https://www.is.com/">an advertising company</a>,{' '}
               <a href="https://www.elastic.co/">an open source corporation</a>.
             </p>
 

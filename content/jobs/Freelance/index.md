@@ -1,7 +1,7 @@
 ---
 date: '2008-10-01'
 title: 'Freelance Software Engineer'
-company: 'Lizozom'
+company: 'Freelance'
 location: 'Tel Aviv, Israel'
 range: 'Oct 2008 - Nov 2012'
 url: 'https://lizozom.com/'
