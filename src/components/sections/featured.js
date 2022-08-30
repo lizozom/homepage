@@ -331,7 +331,8 @@ const Featured = () => {
     }
   `);
 
-  const featuredProjects = data.featured.edges.filter(({ node }) => node);
+  let featuredProjects = data.featured.edges.filter(({ node }) => node);
+  featuredProjects = undefined;
   const revealTitle = useRef(null);
   const revealProjects = useRef([]);
   const prefersReducedMotion = usePrefersReducedMotion();
@@ -350,6 +351,7 @@ const Featured = () => {
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
       </h2>
+      <h3>Coming soon...</h3>
 
       <StyledProjectsGrid>
         {featuredProjects &&
